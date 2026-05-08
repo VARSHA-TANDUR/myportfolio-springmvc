@@ -4,18 +4,6 @@ A responsive personal portfolio web application built with **Spring MVC, JSP, HT
 
 This project is more than a portfolio page. It is a small full-stack learning space where my profile, projects, internships, technical skills, and contact form are organized using a proper MVC architecture.
 
-## About Me
-
-I am **Varsha M Tandur**, a Computer Science Engineering student graduating in 2026.
-
-My interests include:
-
-- Java full stack development
-- Spring MVC and backend services
-- RESTful APIs and JDBC
-- Responsive frontend design
-- Machine learning and data-driven applications
-
 ## What This Website Includes
 
 - Home page with profile intro and call-to-action buttons
@@ -26,15 +14,6 @@ My interests include:
 - Dark mode toggle using JavaScript and `localStorage`
 - Mobile-friendly hamburger menu
 - Responsive layout using CSS Grid, Flexbox, and media queries
-
-## Featured Projects
-
-| Project | Tech Stack | Focus |
-| --- | --- | --- |
-| Healthcare Data Information and Management System | Python, Pandas, Streamlit, SQL | Healthcare analytics and workflow automation |
-| Brain Stroke Detection System | Java, TensorFlow, Python, Flask, Deep Learning | Medical image classification with MobileNetV2 |
-| Dear Reader Online Bookstore | Java, Spring MVC, JSP, JSTL, HTML, CSS, JavaScript | Online bookstore with MVC page flow |
-| LearnXNova Online Learning Platform | Java, Spring MVC, JSP, HTML, CSS, JavaScript | Learning platform interface and routing |
 
 ## Tech Stack
 
@@ -148,4 +127,3 @@ This project helped me practice:
 ## A Small Note
 
 This portfolio is a snapshot of my learning journey: part resume, part project archive, and part hands-on Spring MVC practice. I will keep improving it as I learn more about full-stack development, backend architecture, and intelligent software systems.
-
